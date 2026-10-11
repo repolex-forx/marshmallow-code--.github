@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "marshmallow-code",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "c95e0c1a38c521a4fd3819f6156b41a52fc32ec6",
+      "parsed_at": "2026-10-11T09:08:45.435087+00:00",
+      "filetree": "filetree/c95e0c1a38c521a4fd3819f6156b41a52fc32ec6.nq.gz",
+      "blobs": [
+        "blob/617d74754972938e5438d42fc07feb1e8676cd68.nq.gz",
+        "blob/7e79ca9304254230a298355da27d9ff1ba51fc67.nq.gz",
+        "blob/d5509f6ad6f376ebf338d38b273728cb375950ad.nq.gz",
+        "blob/ec52d2bf7b68189db794a92a0f7286cdba5d7cfc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
