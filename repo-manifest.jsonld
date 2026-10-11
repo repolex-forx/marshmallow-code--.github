@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/marshmallow-code/.github/commit/c95e0c1a38c521a4fd3819f6156b41a52fc32ec6",
       "git:hexsha": "c95e0c1a38c521a4fd3819f6156b41a52fc32ec6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T09:10:21.791010+00:00"
     }
   ]
 }
